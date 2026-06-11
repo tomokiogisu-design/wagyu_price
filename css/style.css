@@ -57,3 +57,9 @@ footer {
   background-color: #343a40;
   text-align: center;
 }
+
+@media (min-width: 768px) {
+  .card-deck .card {
+    flex : 0 0 calc(25% - 30px);
+  }
+}
