@@ -63,3 +63,7 @@ footer {
     flex : 0 0 calc(25% - 30px);
   }
 }
+
+.card {
+  border-radius: 0;
+}
