@@ -82,3 +82,7 @@ footer {
    border-radius: 50%;
  }
 }
+
+.green-btn {
+  background-color: green;
+}
